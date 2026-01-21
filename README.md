@@ -1,120 +1,122 @@
-# Bibliotecas NumPy e Pandas do Python 
+# Aprendizado de Máquina (ML) - Material das Aulas
+## Produzido pelo Professor Gustavo Willam Pereira
 
+## Bibliotecas NumPy e Pandas do Python 
 
-## [Aula 01 - Biblioteca NumPy](https://github.com/gustavowillam/AEDI/blob/main/slides/08-AEDI-Numpy.pdf)
+## [Aula 01 - Biblioteca NumPy](https://github.com/mramgti/AEDI/blob/main/slides/08-AEDI-Numpy.pdf)
 
-* ### [Colab - Biblioteca Numpy - Parte I](https://colab.research.google.com/drive/1oI6n6qTV90Bdd6zVqY-6UR3nK6n0WRl3?usp=sharing)
-* ### [Colab - Biblioteca Numpy - Parte II](https://colab.research.google.com/drive/1Vr60fvxXF7sEVJRlgTdEZKyUnDpdSRCh?usp=sharing)
+* ### [Colab - Biblioteca Numpy - Parte I](https://colab.research.google.com/drive/1IlhJgqcupYHMaTCZlDo0CvmbjZ07fDdj?usp=sharing)
+* ### [Colab - Biblioteca Numpy - Parte II](https://colab.research.google.com/drive/1moAil8dfY0YnDf6STpWqiQ0LndFYrvNl?usp=sharing)
 
-## [Aula 02 - Biblioteca Pandas](https://github.com/gustavowillam/AEDI/blob/main/slides/09-AEDI-Pandas.pdf)
+## [Aula 02 - Biblioteca Pandas](https://github.com/mramgti/AEDI/blob/main/slides/09-AEDI-Pandas.pdf)
 
-* ### [Colab - Biblioteca Pandas - Parte I](https://colab.research.google.com/drive/1ulibdhhPVKxwgJUeoVcxQGKi1fbtXQlJ?usp=sharing)
-* ### [Colab - Biblioteca Pandas - Parte II](https://colab.research.google.com/drive/103lCddny1Z73YcEDqLGFuAQS_NBzLolf?usp=sharing)
+* ### [Colab - Biblioteca Pandas - Parte I](https://colab.research.google.com/drive/1KY22sAHE2eLK5LKW_e4KEMa1N-VtD8U4?usp=sharing)
+* ### [Colab - Biblioteca Pandas - Parte II](https://colab.research.google.com/drive/1Am91L4ZOf1vuW4n_Cd0igWGHfBtOjT8w?usp=sharing)
 
 
 
 # Aprendizado de Máquina - Material das Aulas
 
-## - [Aula 01 - Introdução ao Aprendizado de Máquina](https://github.com/gustavowillam/ML/blob/main/slides/01-ML-Introducao%20ao%20Aprendizado%20de%20Maquina.pdf)
+## - [Aula 01 - Introdução ao Aprendizado de Máquina](https://github.com/mramgti/ML/blob/main/slides/01-ML-Introducao%20ao%20Aprendizado%20de%20Maquina.pdf)
 
-## - [Aula 02 - Análise Exploratória de Dados (EDA)](https://github.com/gustavowillam/ML/blob/main/slides/02-ML-Analise%20Exploratoria%20de%20Dados.pdf)
+## - [Aula 02 - Análise Exploratória de Dados (EDA)](https://github.com/mramgti/ML/blob/main/slides/02-ML-Analise%20Exploratoria%20de%20Dados.pdf)
 
-* ### [Colab - EDA - dataset Dados_Compra](https://colab.research.google.com/drive/1TDwqEw1rBFhJSqYwSxfH_Alv0_oqPsVg?usp=sharing)
+* ### [Colab - EDA - dataset Dados_Compra](https://colab.research.google.com/drive/1WUI2jjmbIMP4RWjSFgyIbkLCFFRU-Rxz?usp=sharing)
 
-* ### [Colab - EDA - dataset Marketing Analysis](https://colab.research.google.com/drive/1xpmAQGvoix1oHsyNSh_ShIuUQzICQIbA?usp=sharing)
+* ### [Colab - EDA - dataset Marketing Analysis](https://colab.research.google.com/drive/15Jv_TES4LDhfO1XN5to6a0JNCcNM96Kn?usp=sharing)
 
 
 ## - Algoritmos para Regressão
 
-## - [Aula 03 - Regressão Linear Simples, Múltipla e Polinomial](https://github.com/gustavowillam/ML/blob/main/slides/03-ML-Modelos%20de%20Regressao%20e%20Metricas%20para%20Avaliacao.pdf)
+## - [Aula 03 - Regressão Linear Simples, Múltipla e Polinomial](https://github.com/mramgti/ML/blob/main/slides/03-ML-Modelos%20de%20Regressao%20e%20Metricas%20para%20Avaliacao.pdf)
 
-* ### [Colab - Regressão Linear Simples com StatsModels - dataset Boston House Price](https://colab.research.google.com/drive/1kc6B6RxkDaRg9x1_jCfxPontFJvWxM1D?usp=sharing)
+* ### [Colab - Regressão Linear Simples com StatsModels - dataset Boston House Price](https://colab.research.google.com/drive/1OXPA8K-s_ucZiTH3WQ0UnHgxvBnOAG-T?usp=sharing)
 
-* ### [Colab - Regressão Linear Simples com StatsModels - dataset Boston House Price(Resumo)](https://colab.research.google.com/drive/1aI98nN22hx1Rlk-ySHyJApjzmcZ91pp2?usp=sharing)
+* ### [Colab - Regressão Linear Simples com StatsModels - dataset Boston House Price(Resumo)](https://colab.research.google.com/drive/1LKejwLvEgFRIV4mJ6eAEzZ9hcrjqM114?usp=sharing)
 
-* ### [Colab - Regressão Linear Simples com Scikit-Learn - dataset Boston House Price](https://colab.research.google.com/drive/18__5xBIvWFY6hyh4T0lO7U0mSOgmGdRQ?usp=sharing)
+* ### [Colab - Regressão Linear Simples com Scikit-Learn - dataset Boston House Price](https://colab.research.google.com/drive/1j9F96EaBqMBh43v1sGU5z0-FeYIOtbTP?usp=sharing)
 
-* ### [Colab - Regressão Linear Multipla com Scikit-Learn - dataset Boston House Price](https://colab.research.google.com/drive/13Td2zAVHZSl41QEtVpHgUP9UzTG4UxIY?usp=sharing)
+* ### [Colab - Regressão Linear Multipla com Scikit-Learn - dataset Boston House Price](https://colab.research.google.com/drive/1Gao5ItybfXMNiZ36uc1RQnb2asTq-ylP?usp=sharing)
 
-* ### [Colab - Regressão Linear Multipla com Scikit-Learn - dataset Rent House Price](https://colab.research.google.com/drive/1p3ZepUGwFLw7h3F7B-6dvcSXFTvPTNme?usp=sharing)
+* ### [Colab - Regressão Linear Multipla com Scikit-Learn - dataset Rent House Price](https://colab.research.google.com/drive/1CCfn7pRnhXS7poURgBkytLythlEc2o5R?usp=sharing)
 
-* ### [Colab - Regressão Linear Multipla com Scikit-Learn - dataset Rent House Price - Tratando Outliers](https://colab.research.google.com/drive/1dKtqMsCPQ_Fmc9rRxwhoIx9KTDqJ6WR2?usp=sharing)
+* ### [Colab - Regressão Linear Multipla com Scikit-Learn - dataset Rent House Price - Tratando Outliers](https://colab.research.google.com/drive/1Eql1iP2UUIKD3mVIUL3TLK3CZrNe93gB?usp=sharing)
 
-* ### [Colab - Regressão Polinomial - dataset Position_Salaries](https://colab.research.google.com/drive/1wNckyEQEdCfnFjBMgj5R68mdkOnDTidT?usp=sharing)
+* ### [Colab - Regressão Polinomial - dataset Position_Salaries](https://colab.research.google.com/drive/1wF2azBWvz2nGySNjRBAh3kHnGNsqhgpu?usp=sharing)
 
-* ### [Colab - Kaggle Competition - House Price](https://colab.research.google.com/drive/1d6mYbqmjv6j7IvR4tzzlGDF-Tdm2EzL4?usp=sharing)
+* ### [Colab - Kaggle Competition - House Price](https://colab.research.google.com/drive/1GHygzAtcExxepMMaF5vDp_IU0Cn1WRla?usp=sharing)
 
  
-## - [Aula 04 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)](https://github.com/gustavowillam/ML/blob/main/slides/04-ML-Support%20Vector%20Machine-SVR.pdf)
+## - [Aula 04 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)](https://github.com/mramgti/ML/blob/main/slides/04-ML-Support%20Vector%20Machine-SVR.pdf)
 
-* ### [Colab - SVR - dataset Students Performance](https://colab.research.google.com/drive/1VhwYFG074BzTAJh_aMTUPeEvM6WVyZGE?usp=sharing)
+* ### [Colab - SVR - dataset Students Performance](https://colab.research.google.com/drive/1qXSyekxRhGiZU8k0coiXAPg1nbx9DVU-?usp=sharing)
 
-* ### [Colab - SVR/RLM - dataset Advertising](https://colab.research.google.com/drive/1oH64_Oc_eqE8BqI2xA63BhpYHbjMMb_2?usp=sharing)
+* ### [Colab - SVR/RLM - dataset Advertising](https://colab.research.google.com/drive/1pK26Jdkg5M11ruqDBUXMpg3CpQTG6yO5?usp=sharing)
 
-* ### [Colab - SVR - dataset Medical Cost Personal](https://colab.research.google.com/drive/1T5XNRIbnFKxf1X6BOo2gj4vcGglNXimb?usp=sharing)
+* ### [Colab - SVR - dataset Medical Cost Personal](https://colab.research.google.com/drive/1efMsRpF7SRwcrBARzG9AGLB7r-HndR6g?usp=sharing)
 
 
-## - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)](https://github.com/gustavowillam/ML/blob/main/slides/05-ML-Decision%20Tree%20and%20Random%20Forest.pdf)
+## - [Aula 05 - Arvore de Decisão (Decision Tree - DT) e Floresta Aleatória (Random Forest - RF)](https://github.com/mramgti/ML/blob/main/slides/05-ML-Decision%20Tree%20and%20Random%20Forest.pdf)
 
-* ### [Colab - DT/RF - dataset Advertising](https://colab.research.google.com/drive/1jNXzOmYy9knTx-kOlbULc5TCVXX8Bb3A?usp=sharing)
+* ### [Colab - DT/RF - dataset Advertising](https://colab.research.google.com/drive/1wMZJi4vfnTNcN4UI_85qpqRY4vHnbqu3?usp=sharing)
 
-* ### [Colab - DT - dataset Medical Cost Personal](https://colab.research.google.com/drive/1oVNwkjeI2Xz8R9I05Aj_9gZEESp1LEdc?usp=sharing)
+* ### [Colab - DT - dataset Medical Cost Personal](https://colab.research.google.com/drive/1cx8RV8w4l7rKb0j6eOuwV1EQMg-SJjlr?usp=sharing)
 
-* ### [Colab - RF - dataset Medical Cost Personal](https://colab.research.google.com/drive/1dFyOnD1G6ZMf_H4-JvcmV8cx1QY7j1RD?usp=sharing)
+* ### [Colab - RF - dataset Medical Cost Personal](https://colab.research.google.com/drive/1_kTIxjAZpCZr5KozbgTArsh_dpPDYpyA?usp=sharing)
 
-* ### [Colab - RL-DT-RF - dataset BankChurners](https://colab.research.google.com/drive/1YAARNZrv6PX3zD447HS0r_yQCt0q2Wnr?usp=sharing)
+* ### [Colab - RL-DT-RF - dataset BankChurners](https://colab.research.google.com/drive/1LBVC-ec-wX4-f7iz0nGAoXNGhvItbUg9?usp=sharing)
 
 
 ## - Algoritmos para Classificação
 
-## - [Aula 06 - Métricas para Avaliação, Otimização de Hiperparâmetros e Validação Cruzada](https://github.com/gustavowillam/ML/blob/main/slides/06-ML-Metricas%20para%20Avaliacao-Otimizacao%20de%20Parametros.pdf)
+## - [Aula 06 - Métricas para Avaliação, Otimização de Hiperparâmetros e Validação Cruzada](https://github.com/mramgti/ML/blob/main/slides/06-ML-Metricas%20para%20Avaliacao-Otimizacao%20de%20Parametros.pdf)
 
 ## - [Métricas para Avaliação - Quais as diferenças](https://vitorborbarodrigues.medium.com/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-acur%C3%A1cia-precis%C3%A3o-recall-quais-as-diferen%C3%A7as-c8f05e0a513c)
 
-## - [Aula 07 - Regressão Logistica](https://github.com/gustavowillam/ML/blob/main/slides/07-ML-Logistic%20Regression.pdf)
+## - [Aula 07 - Regressão Logistica](https://github.com/mramgti/ML/blob/main/slides/07-ML-Logistic%20Regression.pdf)
 
-## - [Aula 08 - K-Nearest Neighbors (K-NN)](https://github.com/gustavowillam/ML/blob/main/slides/08-ML-K-Nearest%20Neighbors%20K-NN.pdf)
+## - [Aula 08 - K-Nearest Neighbors (K-NN)](https://github.com/mramgti/ML/blob/main/slides/08-ML-K-Nearest%20Neighbors%20K-NN.pdf)
 
-## - [Aula 09 - Naive Bayes](https://github.com/gustavowillam/ML/blob/main/slides/09-ML-Naive%20Bayes.pdf)
+## - [Aula 09 - Naive Bayes](https://github.com/mramgti/ML/blob/main/slides/09-ML-Naive%20Bayes.pdf)
 
-## - [Aula 10 - SVM, DT, RF](https://github.com/gustavowillam/ML/blob/main/slides/10-ML-Support%20Vector%20Machine-SVC.pdf)
+## - [Aula 10 - SVM, DT, RF](https://github.com/mramgti/ML/blob/main/slides/10-ML-Support%20Vector%20Machine-SVC.pdf)
 
-* ### [Colab - dataset Framingham](https://colab.research.google.com/drive/1S1AZPBJwKwpNfjvY3kR8its2voPkCKU6?usp=sharing)
+* ### [Colab - dataset Framingham](https://colab.research.google.com/drive/1Kk6XpcTOcc6JzttQ_Rsv0Qxxf69W1riv?usp=sharing)
 
-* ### [Colab - dataset BreastCancerWisconsin](https://colab.research.google.com/drive/1grJXRiPSu79V2K2nVGSbzHDq2SsV-xWT?usp=sharing)
+* ### [Colab - dataset BreastCancerWisconsin](https://colab.research.google.com/drive/1TZVq5uVr20YHjAjfw-lBkUbDY64aMGLj?usp=sharing)
  
-* ### [Colab - Kaggle Competition - SpaceShip Titanic](https://colab.research.google.com/drive/1T9iFj_P8vtVq_PTEJ68rOqF3vu87RR9B?usp=sharing)
+* ### [Colab - Kaggle Competition - SpaceShip Titanic](https://colab.research.google.com/drive/10_kH3nAzDHiV-Ij0qYCoEs1wHWwGyV7Q?usp=sharing)
 
 ## - Algoritmos para Classificação Não-Supervisionada
 
-## - [Aula 11 - K-Means](https://github.com/gustavowillam/ML/blob/main/slides/11-ML-Classificacao%20Nao%20Supervisionada-K%20Means.pdf)
+## - [Aula 11 - K-Means](https://github.com/mramgti/ML/blob/main/slides/11-ML-Classificacao%20Nao%20Supervisionada-K%20Means.pdf)
 
-* ### [Colab - KMeans  - dataset Country Clusters](https://colab.research.google.com/drive/1hgwRdxNxrMZtmP7mNvNnZ4Kd1fpVs7Ud?usp=sharing)
+* ### [Colab - KMeans  - dataset Country Clusters](https://colab.research.google.com/drive/1-I-eBzMjEPRcBcH-eyEGVle_zfJuFQcW?usp=sharing)
 
-* ### [Colab - KMeans  - dataset Flor de Iris](https://colab.research.google.com/drive/1Es2ynAiHeamQZy_6RGd-sAmS1WTiNdsk?usp=sharing)
+* ### [Colab - KMeans  - dataset Flor de Iris](https://colab.research.google.com/drive/1Do7GhZTCroZdDWucMyrkjwMtMoiy2h0F?usp=sharing)
 
-* ### [Colab - KMeans  - dataset Customer Segmentation](https://colab.research.google.com/drive/1lCBnBxmLeyzANSfuE3YN5e2avEFjZZHo?usp=sharing)
+* ### [Colab - KMeans  - dataset Customer Segmentation](https://colab.research.google.com/drive/1fobSscvNo7yWwXGPWFXhA2vOl_2qBc7B?usp=sharing)
 
 ## - Engenharia de Dados 
 
-## - [Aula 12 - Redução de Dimensionalidade - PCA e LDA](https://github.com/gustavowillam/ML/blob/main/slides/12-ML-Reducao%20de%20Dimensionalidade-PCA%20e%20LDA.pdf)
+## - [Aula 12 - Redução de Dimensionalidade - PCA e LDA](https://github.com/mramgti/ML/blob/main/slides/12-ML-Reducao%20de%20Dimensionalidade-PCA%20e%20LDA.pdf)
 
-* ### [Colab - PCA LDA para Classificação - dataset Telecom Users](https://colab.research.google.com/drive/1h2AloX4ftpRoQ_aSagiuQnIAj64MqJp3?usp=sharing)
+* ### [Colab - PCA LDA para Classificação - dataset Telecom Users](https://colab.research.google.com/drive/161paSmtOsWS4F6w-FAMfsaGtTaXfOGNd?usp=sharing)
 
-* ### [Colab - PCA LDA para Regressão - dataset House Price](https://colab.research.google.com/drive/1gbQI2Y3wTAX1e8KrI2HAaK1dYSFvKBr_?usp=sharing)
+* ### [Colab - PCA LDA para Regressão - dataset House Price](https://colab.research.google.com/drive/1qrqyIV2FIVBXvVs3Az-_bOeGc2MFlJpU?usp=sharing)
 
-## - [Aula 13 - Avaliação de Modelos e Seleção de Features](https://github.com/gustavowillam/ML/blob/main/slides/13-ML-Selecao%20de%20Variaveis.pdf)
+## - [Aula 13 - Avaliação de Modelos e Seleção de Features](https://github.com/mramgti/ML/blob/main/slides/13-ML-Selecao%20de%20Variaveis.pdf)
 
-* ### [Colab - Seleção de Features - Classificação - dataset BreastCancerDiagnostic](https://colab.research.google.com/drive/1NorQmUqRDu-1D2jEzKoMCt0DVAaF1HZ_?usp=sharing)
+* ### [Colab - Seleção de Features - Classificação - dataset BreastCancerDiagnostic](https://colab.research.google.com/drive/172DisRrJzJ6CxXwHKdK_RimnRr8tyBGx?usp=sharing)
 
-* ### [Colab - Avaliação de Modelos de ML - Classificação - dataset Telecom Users](https://colab.research.google.com/drive/18e6qcYb7MfB_goP2m-D-GbdQdVJkeIWE?usp=sharing)
+* ### [Colab - Avaliação de Modelos de ML - Classificação - dataset Telecom Users](https://colab.research.google.com/drive/1HaMJnqI32k7ctpae0ako7w9zYmHFGBsq?usp=sharing)
 
-* ### [Colab - Avaliação de Modelos de ML - Regressão - dataset House Price](https://colab.research.google.com/drive/1aQDgM_yK_s271mfTtnO9mFSnmJNdRrYs?usp=sharing)
+* ### [Colab - Avaliação de Modelos de ML - Regressão - dataset House Price](https://colab.research.google.com/drive/1eaJeR5lvj7lCN8v8nSoHgnnhGkd7p2Z5?usp=sharing)
 
 ## - [Aula 14 - Pipeline com Python]
 
-* ### [Colab - Pipeline - Regressão - dataset Telecom Users](https://colab.research.google.com/drive/1C52TcJC1_PSk2NoYa23OzPBy0skYFezi?usp=sharing)
+* ### [Colab - Pipeline - Regressão - dataset Telecom Users](https://colab.research.google.com/drive/1k_8ln3007Zr8V0UACkqOcuEZAvbLMJnB?usp=sharing)
 
 ## - [Aula 15 - PyCaret com Python]
 
-* ### [Colab - PyCaret - Regressão - dataset Rent a House](https://colab.research.google.com/drive/1ingbi4te7wglnrb1mkdOZcZCgmvnSq_A?usp=sharing)
+* ### [Colab - PyCaret - Regressão - dataset Rent a House](https://colab.research.google.com/drive/1Dt2gGRXxVqz5lriGBMi8gb5pMg3_20oe?usp=sharing)
