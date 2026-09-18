@@ -46,6 +46,8 @@
 
 * ### [Colab - Kaggle Competition - House Price](https://colab.research.google.com/drive/1GHygzAtcExxepMMaF5vDp_IU0Cn1WRla?usp=sharing)
 
+* ### [DEMONSTRAÇÃO - Colab - Kaggle Competition - House Price](https://colab.research.google.com/drive/16cvdT1idbo_GRv2HYx9Tq5uxCdAhh4-j?usp=sharing)
+
  
 ## - [Aula 04 - Máquina de Vetores de Suporte (Support Vector Machine - SVM)](https://github.com/mramgti/ML/blob/main/slides/04-ML-Support%20Vector%20Machine-SVR.pdf)
 
